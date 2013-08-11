@@ -1,6 +1,6 @@
-Raspberry-Pi-Minimal-Server-Install
+Raspberry-Pi-Minimal-Image
 ==========================================
-<p>With this script, installation is simple, and reduces dozens of commands into a simple script.</p>
+<p>With this script, installation is simple, and reduces dozens of commands into a simple script to reduce the standard image.</p>
 
 <h3>Installation Procedure:</h3>
 
