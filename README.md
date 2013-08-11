@@ -1,4 +1,4 @@
-Raspberry-Pi-Minimal-Server-Install-Script
+Raspberry-Pi-Minimal-Server-Install
 ==========================================
 <p>With this script, installation is simple, and reduces dozens of commands into a simple script.</p>
 
