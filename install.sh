@@ -7,4 +7,4 @@ sudo apt-get purge ^libx -y
 sudo apt-get purge ^lx -y
 sudo apt-get autoremove -y
 sudo apt-get upgrade -y
-sud apt-get clean
+sudo apt-get clean
