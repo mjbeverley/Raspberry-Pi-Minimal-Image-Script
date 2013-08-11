@@ -2,7 +2,7 @@ Raspberry-Pi-Minimal-Server-Install
 ==========================================
 <p>With this script, installation is simple, and reduces dozens of commands into a simple script.</p>
 
-<h3>Installation Proceedure:</h3>
+<h3>Installation Procedure:</h3>
 
 1. <code>git clone https://github.com/mjbeverley/Raspberry-Pi-Minimal-Server-Install-Script.git</code>
 
